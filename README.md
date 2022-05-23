@@ -1,5 +1,5 @@
 # Responsive-Ecommerce-Website
-https://syedatamannasheme-03.github.io/Responsive-Ecommerce-Website/
+## Live Link: https://tamannasheme.github.io/Responsive-Ecommerce-Website/
 
 Front-end for an e-commerce clothes selling website.
 ## About
